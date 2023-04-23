@@ -6,7 +6,7 @@ const Home = () => {
       <div class="container mx-auto flex flex-col md:flex-row">
         <div class="md:w-1/2 flex items-center justify-center">
           <div>
-            <h1 class="text-5xl font-bold py-3">Shaping Skills</h1>
+            <h1 class="text-5xl font-bold pt-12">Shaping Skills</h1>
             <h1 class="text-5xl font-bold text-pink-500">
               For Brighter Future
             </h1>
